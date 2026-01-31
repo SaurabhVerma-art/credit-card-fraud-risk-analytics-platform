@@ -5,6 +5,9 @@ End-to-End Fraud Detection & Risk Analysis using **Python, SQL, and Power BI**
 This project demonstrates a complete Data Analyst workflow where raw credit card transaction data is cleaned, analyzed, and visualized to identify fraudulent activity and generate business insights.
 
 ---
+## 🏗️ Architecture / Workflow
+
+![Architecture Diagram](image.png)
 
 ## 📌 Project Objective
 
