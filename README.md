@@ -109,6 +109,15 @@ Features include:
 
 Helps quickly identify high-risk areas.
 
+## 📈 Dashboard Preview
+
+### KPI Overview
+![Dashboard Page 1](Dashboard_page1_ss.png)
+
+### Trend & Insights
+![Dashboard Page 2](Dashboard_page2_ss.png)
+
+
 ---
 
 ## 📊 Key Insights
@@ -141,6 +150,18 @@ This analysis helps:
 - Dashboard Development (Power BI)
 - Business Insight Generation
 - End-to-End Analytics Workflow
+
+---
+
+## ▶ How to Run
+
+Follow these steps to reproduce the project locally:
+
+1. Run the Python notebook inside `notebooks/` to clean the raw dataset
+2. Export the cleaned dataset to `data/processed/`
+3. Load the cleaned CSV into your SQL environment
+4. Execute queries from the `sql/` folder
+5. Open the Power BI `.pbix` file inside `dashboard/` to view the dashboard
 
 ---
 
